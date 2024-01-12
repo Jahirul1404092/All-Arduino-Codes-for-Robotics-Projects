@@ -1,0 +1,41 @@
+BoardLink: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+Board: Esp8266-espcommunity v2.7.1
+
+cp210x DriverLink:https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers v.6.7.x
+
+Library: firebase Esp8266 Client -2.7.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Board link: https://dl.espressif.com/dl/package_esp32_index.json
+Board Name: Esp32 by espressif v1.0.6
+
+cp210x DriverLink:https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers v.6.7.x
+
+Firebase esp32 client - 3.10.5 or latter
+
+
+creating firebase project
+Email authentication
+Creating realtime database 
+publishing rule
+setup service account
+finding API
